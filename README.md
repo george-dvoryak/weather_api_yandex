@@ -1,4 +1,4 @@
-# weather_forecasr_by_george_dvoryak
+# weather_forecast_by_george_dvoryak
 Weather Forecast project supp. by Yandex.API
 
 Умный сервис прогноза погоды - Уровень задача со звездочкой
